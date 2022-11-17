@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "src",
+			"path": "../Downloads/vedio-course-react-useContext-master/src"
+		},
+		{
+			"name": "useContext",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
